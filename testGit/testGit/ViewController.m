@@ -26,6 +26,7 @@
     // Dispose of any resources that can be recreated.
     NSLog(@"第一次");
     NSLog(@"第二次");
+    NSLog(@"第三次");
 }
 
 
