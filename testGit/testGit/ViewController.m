@@ -25,11 +25,8 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
     NSLog(@"第一次");
-<<<<<<< HEAD
     NSLog(@"第二次");
     NSLog(@"第三次");
-=======
->>>>>>> parent of a37c793... 第二次
 }
 
 
